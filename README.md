@@ -10,5 +10,6 @@
 
 ### 使用pip
 bash
-```pip install tretool
+```
+pip install tretool
 ```
