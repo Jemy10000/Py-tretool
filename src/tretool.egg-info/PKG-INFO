@@ -1,0 +1,28 @@
+Metadata-Version: 2.4
+Name: tretool
+Version: 0.2.1
+Summary: 一个有着许多功能的Python工具库
+Author-email: Jemy <sh_ljr_2013@163.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# tretool
+
+## tretool - Python多功能工具库
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+
+**tretool** 是一个集成常用功能的Python工具库。
+
+## 📦 安装
+
+### 使用pip
+bash
+```pip install tretool
